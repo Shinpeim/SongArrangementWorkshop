@@ -5,7 +5,7 @@
 また、今回は主旋律とコード進行は所与のものとし、その中でどのように編曲していくかを考えてみましょう。今回扱う主旋律とコード進行は、このようなシンプルなものです。
 
 音源:  
-<audio src="./mp3/chord_and_melody.mp3" controls>
+<audio src="./mp3/chord_and_melody.mp3" controls></audio>
 
 コード進行
 
@@ -82,7 +82,7 @@
 
 の掛け合いによって表現されます。まずはドラムから見ていきましょう。8ビートのドラムのパターンを載せます。
 
-<audio src="./mp3/8beat_drums.mp3" controls>
+<audio src="./mp3/8beat_drums.mp3" controls></audio>
 
 ドラムのパターンをのせたら、次はベースを考えていきます。
 
@@ -92,7 +92,7 @@
 
 では、単純にこのバスドラムがなっているところにベースを入れてみましょう。
 
-<audio src="./mp3/8beat_simple_bass.mp3" controls>
+<audio src="./mp3/8beat_simple_bass.mp3" controls></audio>
 
 さて、なんの面白みもないですが、だいぶ「それらしく」はなってきたのではないでしょうか。
 
@@ -104,7 +104,7 @@
 
 で作るのでしたね。最後はコードバッキングです。コードバッキングはベースの逆で、「リズムのアクセントの浮き上がる部分」で鳴らしてあげると自然です。スネアドラムがなっているところでコードを鳴らしてあげましょう。
 
-<audio src="./mp3/8beat_simple_chord.mp3" controls>
+<audio src="./mp3/8beat_simple_chord.mp3" controls></audio>
 
 さて、これでリズムに関しては「基本となる味」が決まりました。ここからは、どんどん自分が出したいイメージに近づけていく作業です。「それをどうやるんだよ！！」という話があると思うので、今回はいくつか例を上げます。
 
@@ -130,13 +130,13 @@
 
 それを踏まえた上で、強拍、中強拍に対して最も安定する音であるところのルートを、そうでないところに5thの音を選んでベースを動かしてみましょう。
 
-<audio src="./mp3/8beat_stable_bass.mp3" controls>
+<audio src="./mp3/8beat_stable_bass.mp3" controls></audio>
 
 安定感を保ったまま、リズムに動きがでてきましたね。
 
 ではここで、あなたが「3小節目はもうちょっと安定しない緊張感があったほうがイメージに近いんだよなあ」と思ったとしましょう。そういうときには、逆に強拍に安定感の薄い音を持ってくればいいわけです。今回は3小節目一拍目に、3rdの音を持ってきてみました。いきなり不安定になるとちょっと落差が激しいので、そこへの着地のために、2小節目の中強拍にも5thを持ってきています。
 
-<audio src="./mp3/8beat_unstable_bass.mp3" controls>
+<audio src="./mp3/8beat_unstable_bass.mp3" controls></audio>
 
 かなり「不安定な感じ」になったのではないでしょうか。
 
@@ -152,15 +152,15 @@
 
 たとえば、8分音符の刻みを4分音符の刻みに変えてみて、それに合わせてコードバッキングも音符の長さを変えてみます。
 
-<audio src="./mp3/8beat_4th_ride.mp3" controls>
+<audio src="./mp3/8beat_4th_ride.mp3" controls></audio>
 
 かなりゆったりとした、流れるようなイメージに変化しましたね。コードバッキングをアルペジオに変えると、もっと流れるようなイメージになります。
 
-<audio src="./mp3/8beat_arpeggio.mp3" controls>
+<audio src="./mp3/8beat_arpeggio.mp3" controls></audio>
 
 あるいは、「あえてスネアと違うタイミングで音を鳴らす」ということで楽曲のリズムに多少の緊張感を与えることもできます
 
-<audio src="./mp3/8beat_ragged_chord.mp3" controls>
+<audio src="./mp3/8beat_ragged_chord.mp3" controls></audio>
 
 いっそ一部だけハイハットに三連符をまぜてみたら面白い効果が期待できるかもしれません（やってみてください）
 
@@ -189,10 +189,10 @@
 このセクションの最後に付録として、筆者が上述の考え方で作った 16ビート・ダンス・バージョン, およびルンバ・バージョンをあげておきます。
 
 16ビート：  
-<audio src="./mp3/16_rhythm.mp3" controls>
+<audio src="./mp3/16_rhythm.mp3" controls></audio>
 
 ルンバ:   
-<audio src="./mp3/rumba_rhythm.mp3" controls>
+<audio src="./mp3/rumba_rhythm.mp3" controls></audio>
 
 ## 各論：副旋律
 
