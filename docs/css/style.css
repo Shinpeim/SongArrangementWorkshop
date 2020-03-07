@@ -4,6 +4,10 @@ body {
   background-color: #ffffee;
   color: #333333;
   letter-spacing: 0.05em;
+  max-width: 800px;
+  margin-right: auto;
+  margin-left : auto;
+  padding: 20px;
 }
 
 a { color: #555555; }
@@ -12,12 +16,6 @@ a:hover {
 }
 a:visited {
   color: #666666;
-}
-
-body {
-  max-width: 800px;
-  margin-right: auto;
-  margin-left : auto;
 }
 
 h1 {
@@ -49,9 +47,15 @@ p {
 
 ul {
   margin-bottom: 1em;
+  margin-left: 2em;
 }
 
-
+code {
+  background-color: #ffffff;
+  border: solid 1px #333333;
+  border-radius: 3px;
+  padding: 1em;
+}
 
 audio {
   width: 100%;
